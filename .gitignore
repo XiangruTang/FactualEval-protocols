@@ -1,0 +1,5 @@
+model_xsum/
+model_cnndm/
+data_xsum/
+data_cnndm/
+xsum_data.tar.gz
