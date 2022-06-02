@@ -2,6 +2,10 @@
 
 This repository contains code, data, and templates for crowdsourcing protocols, described by the paper: [Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries](https://arxiv.org/abs/2109.09195).
 
+## 
+
+calculate.ipynb: to calculate the score distribution, krippendorff reliability, and SHR reliability.
+
 ## Citation
 If you use our code in your research, please cite our work:
 ```bibtex
